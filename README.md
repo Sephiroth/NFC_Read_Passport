@@ -1,0 +1,2 @@
+# NFC_Read_Passport
+这仅是NFC读取护照信息前，NFC和护照芯片进行安全验证的过程中，信息加密的过程。部分dll是jar包转dll的
